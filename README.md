@@ -9,6 +9,6 @@ University of Southern California <br>
 </p>
 <style>
 body {
-  background-image: url('https://github.com/USC-LoBeS/lobes.github.io/tree/main/images/LoBeS_t_1_black_notext.png');
+  background-image: url('https://github.com/USC-LoBeS/lobes.github.io/blob/main/images/LoBeS_t_1_black_notext.png');
 }
 </style>
